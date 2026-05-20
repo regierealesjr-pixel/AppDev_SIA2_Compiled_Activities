@@ -1,6 +1,6 @@
 Student Name : Regie P. Reales Jr.	
 Course & Section : BSIT 3-A
-Subject Name : SIA AND APPDEv
+Subject Name : SIA AND APPDEV
 
 Repository Description
 
